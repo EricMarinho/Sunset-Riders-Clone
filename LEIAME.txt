@@ -1,0 +1,1 @@
+Esse jogo foi um teste para criar um clone do clássico Sunset Riders, só que na Unity. Esse projeto foi desenvolvido em uma semana.
