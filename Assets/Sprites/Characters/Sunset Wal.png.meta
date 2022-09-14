@@ -1,0 +1,991 @@
+fileFormatVersion: 2
+guid: 527e07e76a78622428a1600fb767f2bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -627167622531289987
+    second: Sunset Wal editado_0
+  - first:
+      213: 2268483553917547102
+    second: Sunset Wal editado_1
+  - first:
+      213: 6922565604795578566
+    second: Sunset Wal editado_2
+  - first:
+      213: -7898490442859941434
+    second: Sunset Wal editado_3
+  - first:
+      213: -2230122582510281596
+    second: Sunset Wal editado_4
+  - first:
+      213: -1706515520576867478
+    second: Sunset Wal editado_5
+  - first:
+      213: 4820717771589922478
+    second: Sunset Wal editado_6
+  - first:
+      213: -8214052816845835587
+    second: Sunset Wal editado_7
+  - first:
+      213: 3797847641852379075
+    second: Sunset Wal editado_8
+  - first:
+      213: 82238763144782362
+    second: Sunset Wal editado_9
+  - first:
+      213: 9151983212031623167
+    second: Sunset Wal editado_10
+  - first:
+      213: 516094317159239538
+    second: Sunset Wal editado_11
+  - first:
+      213: -7496162951392480943
+    second: Sunset Wal editado_12
+  - first:
+      213: -6529784397493407452
+    second: Sunset Wal editado_13
+  - first:
+      213: -776876856340682186
+    second: Sunset Wal editado_14
+  - first:
+      213: 4300599188097112961
+    second: Sunset Wal editado_15
+  - first:
+      213: -1038990953747564876
+    second: Sunset Wal editado_16
+  - first:
+      213: 1500046747136872230
+    second: Sunset Wal editado_17
+  - first:
+      213: 777488475306124978
+    second: Sunset Wal editado_18
+  - first:
+      213: 6688208959723227384
+    second: Sunset Wal editado_19
+  - first:
+      213: 3762197449410700547
+    second: Sunset Wal editado_20
+  - first:
+      213: -7013441659834093884
+    second: Sunset Wal editado_21
+  - first:
+      213: 6293142263175722758
+    second: Sunset Wal editado_22
+  - first:
+      213: 3018581837147476016
+    second: Sunset Wal editado_23
+  - first:
+      213: 2177829548659063983
+    second: Sunset Wal editado_24
+  - first:
+      213: -4527435119086974714
+    second: Sunset Wal editado_25
+  - first:
+      213: -5710053862273072874
+    second: Sunset Wal editado_26
+  - first:
+      213: 7856009894843853200
+    second: Sunset Wal editado_27
+  - first:
+      213: -8953157701523298572
+    second: Sunset Wal editado_28
+  - first:
+      213: -7431573442472632486
+    second: Sunset Wal editado_29
+  - first:
+      213: 2592550814652424239
+    second: Sunset Wal editado_30
+  - first:
+      213: 9209975295701397656
+    second: Sunset Wal editado_31
+  - first:
+      213: 6491763119885479474
+    second: Sunset Wal editado_32
+  - first:
+      213: 5618106648114236909
+    second: Sunset Wal editado_33
+  - first:
+      213: 8150263290401236300
+    second: Sunset Wal editado_34
+  - first:
+      213: 871129820169616887
+    second: Sunset Wal editado_35
+  - first:
+      213: 249186706744171698
+    second: Sunset Wal editado_36
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sunset Wal editado_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 902
+        width: 147
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba8d5ae114791d4699a12cf8a28934d
+      internalID: -627167622531289987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 806
+        width: 61
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2a48507030cb448bd45302bcc8fa8f
+      internalID: 2268483553917547102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 803
+        width: 64
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3734bbee7e4ffac4ab7c6f51a6a8c3ce
+      internalID: 6922565604795578566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 801
+        width: 49
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba5d3c42feaa6f47aa38e96b7b74e9a
+      internalID: -7898490442859941434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 801
+        width: 49
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74260c26116740a4b9572de4023c4884
+      internalID: -2230122582510281596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 794
+        width: 60
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a8529108bb0bd41a346db81481e5a2
+      internalID: -1706515520576867478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_6
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 792
+        width: 49
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bd355ddebbc8642a5da3274b0a636d
+      internalID: 4820717771589922478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_7
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 787
+        width: 53
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032557124ff1341478625653e02d350c
+      internalID: -8214052816845835587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 794
+        width: 54
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336542a8d55bb1042882cb149a40e4ba
+      internalID: 3797847641852379075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 872
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73384930ff08fd84aabe1c79a31ed8d2
+      internalID: 82238763144782362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_10
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 863
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682628b2b2dc6d548ac056b0e24126d3
+      internalID: 9151983212031623167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 647
+        width: 72
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8d2683c18267c42a28a2d8095930e1
+      internalID: 516094317159239538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 647
+        width: 60
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53af85bc3d299340b151280015340e4
+      internalID: -7496162951392480943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_13
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 755
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e051aba7ca5c5904d8a015d3d9a8f535
+      internalID: -6529784397493407452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 741
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa50f596f2f524449493f6c6172963d
+      internalID: -776876856340682186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_15
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 635
+        width: 63
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b880e614e3a9ebc419de4f1114504302
+      internalID: 4300599188097112961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_16
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 640
+        width: 58
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312b8c4849fdea5479663f5dc1ae6323
+      internalID: -1038990953747564876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_17
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 638
+        width: 58
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f0c67ecc8a1b3449c44e25f1f97927
+      internalID: 1500046747136872230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_18
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 638
+        width: 58
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a4925f1a8dbe346aa780083f7436ea
+      internalID: 777488475306124978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_19
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 635
+        width: 67
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399ccc7a36f88624a908eb642de28545
+      internalID: 6688208959723227384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_20
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 739
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d936f3cc828592c4da2de85d85e22065
+      internalID: 3762197449410700547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_21
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 734
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cda70ce47a66d46a01caf17a508a57
+      internalID: -7013441659834093884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_22
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 660
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19f9c588970cd04596ead87cb15b033
+      internalID: 6293142263175722758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_23
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 582
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c602c4e30c1bd024e91a859c4e51a81d
+      internalID: 3018581837147476016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 568
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdd7ea79f8745c45ad91e3150e9bc70
+      internalID: 2177829548659063983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 421
+        width: 61
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70baec294ac52a41a186eac409e335c
+      internalID: -4527435119086974714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_26
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 416
+        width: 60
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b96fb029bf4ea54b9a7aabb2b71df22
+      internalID: -5710053862273072874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_27
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 426
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a9f583c4bca8e458a1e615471c192f
+      internalID: 7856009894843853200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_28
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 462
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49ac64d0bdd31f49a970f3d76d0651b
+      internalID: -8953157701523298572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_29
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 449
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7c9ff8a4bc2524d8858db171f0e028
+      internalID: -7431573442472632486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_30
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 435
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bcfb61e32ef9040956a17779947e7e
+      internalID: 2592550814652424239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_31
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 253
+        width: 65
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cd11baa94fccc4a9fb206eb5894c3d
+      internalID: 9209975295701397656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 331
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fbec723c242c343a46c4037e52226b
+      internalID: 6491763119885479474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 271
+        width: 55
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365431305fca4c1479eaa0f1d8d84539
+      internalID: 5618106648114236909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 292
+        width: 65
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703157291fd1a6a40af6564082d97be1
+      internalID: 8150263290401236300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_35
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 310
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6699adb817bb1743a9f49864312ef1b
+      internalID: 871129820169616887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sunset Wal editado_36
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 294
+        width: 46
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e5ce10652e52944afb9dbc98c4f334
+      internalID: 249186706744171698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
