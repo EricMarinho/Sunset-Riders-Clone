@@ -114,7 +114,7 @@ TextureImporter:
       213: 249186706744171698
     second: Sunset Wal editado_36
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -134,6 +134,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -142,9 +144,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -165,9 +167,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -183,6 +190,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -983,6 +1014,44 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Sunset Wal editado_36: 249186706744171698
+      Sunset Wal editado_22: 6293142263175722758
+      Sunset Wal editado_4: -2230122582510281596
+      Sunset Wal editado_20: 3762197449410700547
+      Sunset Wal editado_28: -8953157701523298572
+      Sunset Wal editado_33: 5618106648114236909
+      Sunset Wal editado_31: 9209975295701397656
+      Sunset Wal editado_6: 4820717771589922478
+      Sunset Wal editado_2: 6922565604795578566
+      Sunset Wal editado_3: -7898490442859941434
+      Sunset Wal editado_18: 777488475306124978
+      Sunset Wal editado_16: -1038990953747564876
+      Sunset Wal editado_30: 2592550814652424239
+      Sunset Wal editado_34: 8150263290401236300
+      Sunset Wal editado_10: 9151983212031623167
+      Sunset Wal editado_19: 6688208959723227384
+      Sunset Wal editado_7: -8214052816845835587
+      Sunset Wal editado_12: -7496162951392480943
+      Sunset Wal editado_15: 4300599188097112961
+      Sunset Wal editado_11: 516094317159239538
+      Sunset Wal editado_8: 3797847641852379075
+      Sunset Wal editado_17: 1500046747136872230
+      Sunset Wal editado_14: -776876856340682186
+      Sunset Wal editado_35: 871129820169616887
+      Sunset Wal editado_13: -6529784397493407452
+      Sunset Wal editado_9: 82238763144782362
+      Sunset Wal editado_27: 7856009894843853200
+      Sunset Wal editado_26: -5710053862273072874
+      Sunset Wal editado_23: 3018581837147476016
+      Sunset Wal editado_29: -7431573442472632486
+      Sunset Wal editado_32: 6491763119885479474
+      Sunset Wal editado_25: -4527435119086974714
+      Sunset Wal editado_24: 2177829548659063983
+      Sunset Wal editado_1: 2268483553917547102
+      Sunset Wal editado_0: -627167622531289987
+      Sunset Wal editado_5: -1706515520576867478
+      Sunset Wal editado_21: -7013441659834093884
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
